@@ -60,7 +60,4 @@ class TodoList extends React.Component {
   }
 }
 
-ReactDOM.render(
-  <TodoApp />,
-  document.getElementById('todos-example')
-);
+export default TodoApp
