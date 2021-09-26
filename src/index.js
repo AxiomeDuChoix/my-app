@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import Tuco from './TodoApp';
+import TodoApp from './TodoApp';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
