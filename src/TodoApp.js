@@ -60,4 +60,4 @@ class TodoList extends React.Component {
   }
 }
 
-export default TodoApp
+export default TodoApp;

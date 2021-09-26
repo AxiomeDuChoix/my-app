@@ -2,13 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import TodoApp from './Tuco'
+import Tuco from './TodoApp';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />,
-    <TodoApp />,
+    <TodoApp />
   </React.StrictMode>,
   document.getElementById('root')
 );
